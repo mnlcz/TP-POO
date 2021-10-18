@@ -7,7 +7,7 @@
 
 #include <string>
 #define ESP_LAT "language=es-419"
-#define API_KEY "key=AIzaSyDVNOlnEFr0l3KSXMz5W08dgfH-kn86004"
+#define API_KEY "key="                  // API KEY
 enum Modo {AUTO, CAMINANDO, BICICLETA}; // https://developers.google.com/maps/documentation/directions/get-directions?hl=es_419#TravelModes
 
 // https://developers.google.com/maps/documentation/directions/get-directions?hl=es_419#DirectionsRequests
